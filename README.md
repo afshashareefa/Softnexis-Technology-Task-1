@@ -1,6 +1,8 @@
 This repository contains a collection of internship tasks completed as part of the Data Science Using Python program. Each task represents a key stage in the data science workflow — from cleaning raw datasets to exploring patterns and forecasting future trends.
+
 📁 Data Science Using Python Internship/
 │
+
 ├── Task 1 - Data Cleaning & Preprocessing
 
 │   ├── data_cleaning.py
