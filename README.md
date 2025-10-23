@@ -2,8 +2,11 @@ This repository contains a collection of internship tasks completed as part of t
 📁 Data Science Using Python Internship/
 │
 ├── Task 1 - Data Cleaning & Preprocessing
+
 │   ├── data_cleaning.py
+
 │   ├── dataset.csv
+
 │   └── cleaned_dataset.csv
 
 ---
